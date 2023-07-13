@@ -1,0 +1,15 @@
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\obj\Debug\net7.0\CompetitionsSystem.csproj.AssemblyReference.cache
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\obj\Debug\net7.0\CompetitionsSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\obj\Debug\net7.0\CompetitionsSystem.AssemblyInfoInputs.cache
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\obj\Debug\net7.0\CompetitionsSystem.AssemblyInfo.cs
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\obj\Debug\net7.0\CompetitionsSystem.csproj.CoreCompileInputs.cache
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\bin\Debug\net7.0\CompetitionsSystem.exe
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\bin\Debug\net7.0\CompetitionsSystem.deps.json
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\bin\Debug\net7.0\CompetitionsSystem.runtimeconfig.json
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\bin\Debug\net7.0\CompetitionsSystem.dll
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\bin\Debug\net7.0\CompetitionsSystem.pdb
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\obj\Debug\net7.0\CompetitionsSystem.dll
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\obj\Debug\net7.0\refint\CompetitionsSystem.dll
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\obj\Debug\net7.0\CompetitionsSystem.pdb
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\obj\Debug\net7.0\CompetitionsSystem.genruntimeconfig.cache
+C:\Users\Andreea.Grigore\Desktop\C_sharp\CompetitionsSystem\obj\Debug\net7.0\ref\CompetitionsSystem.dll
